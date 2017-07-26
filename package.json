@@ -1,0 +1,25 @@
+{
+  "name": "xicor",
+  "version": "1.0.0",
+  "description": "xicor.js noRedux state container for small projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkxicor/Xicor.js-noRedux-small-project-state-container.git"
+  },
+  "keywords": [
+    "xicor",
+    "noRedux",
+    "redux",
+    "alternative"
+  ],
+  "author": "Himanshu Kushwah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkxicor/Xicor.js-noRedux-small-project-state-container/issues"
+  },
+  "homepage": "https://github.com/hkxicor/Xicor.js-noRedux-small-project-state-container#readme"
+}
